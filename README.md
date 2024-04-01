@@ -20,5 +20,5 @@ I'm learning data science bootcamp. There are 10 sprints in the program.
 - Essentianl Python for Data Analyst
 - Dashboard with Looker Studio
 
-Contact: ommie@meejourney.com
+Contact: team@meejourney.com
   
