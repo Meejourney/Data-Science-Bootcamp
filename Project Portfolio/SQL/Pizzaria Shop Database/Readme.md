@@ -1,6 +1,6 @@
 # Pizzaria Database Project
 
-• Test Run Code [Click Replit] (https://replit.com/@nuttanichheim/SQLPizza-Restaurant) 
+• Test Run Code [Click Replit](https://replit.com/@nuttanichheim/SQLPizza-Restaurant)  
 • see ER-Diagram [Click DB diagram]
 
 
