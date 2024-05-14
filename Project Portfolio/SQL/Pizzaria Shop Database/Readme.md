@@ -11,8 +11,8 @@
 • orders  
 
 ### 02 Insert data into tables
-• customers : customer_id, name, lastname, email, birthday
-• menu      : menu_id, menu_name, price 
+• customers : customer_id, name, lastname, email, birthday  
+• menu      : menu_id, menu_name, price  
 • order     : order_id, order_date, customer_id, menu_id 
 
 ### 03 Apply SQL syntax query to find the answers for questions
