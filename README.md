@@ -1,8 +1,21 @@
+# Data Analyst Journey 
+
+My experience in market research has exposed me to numerous situations that highlight the value of data science expertise which motivate me to learn these skill sets in the data science field. As a strong foundation in data science would not only enhance my understanding of data, but also empower me to work more effectively and become a more well-rounded professional. As a result, I took an opportunity to pursue comprehensive data science skills through data science bootcamps. This, coupled with actively building a portfolio of data projects, has equipped me with the practical knowledge and expertise to deliver data-driven insights.  I am eager to leverage these skills and my strong analytical abilities in a new and exciting data-related opportunity.
+
+## Skill Summary
+• Project Management 
+• Market Research Knowledge
+• Data Science Fundamentals (Spreadsheets, SQL, Python, R, Statistics, Intro to Machine Learning)
+• Data Analysis and Data Visualization (Dashboard with Looker Studio and Tableau Public)
+
+## Portfolio 
+• Link to your online portfolio (e.g. GitHub) or a brief description of key projects within your portfolio.
+
+
 # Data Science Bootcamp Batch 9
+Data science bootcamp from DataRockie School consists of 10 sprints in the program.
 
-I'm learning data science bootcamp. There are 10 sprints in the program.
-
-## First part of the program
+## First part
 
 - Intro to data science
 - Spreadsheets
@@ -11,8 +24,7 @@ I'm learning data science bootcamp. There are 10 sprints in the program.
 - Data transformation
 - Data Visualization
 
-## Second part of the program
-
+## Second part 
 - Building website portfolio
 - Essential Statistics
 - Machine Learning for Data Analyst
@@ -20,5 +32,4 @@ I'm learning data science bootcamp. There are 10 sprints in the program.
 - Essentianl Python for Data Analyst
 - Dashboard with Looker Studio
 
-Contact: team@meejourney.com
-  
+
