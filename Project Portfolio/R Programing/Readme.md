@@ -2,11 +2,11 @@
 Test Run File [Click Google Colab](https://colab.research.google.com/drive/1lof-x-iK6j-C5qjU03G2I4jsKjZJTHxt?usp=sharing)
 
 ## Objective:
-To build a simple chatbot to receive pizza orders from customers in a pizza shop using R.
+To build a simple chatbot to receive pizza orders from customers in a pizzaria shop using R Programing.
 
 ### Features:
 • 01 Welcomes customers and displays the menu with prices  
-• 02 Allows customers to choose pizza options by entering the corresponding numbers  
+• 02 Allows customers to choose pizza options by entering the corresponding menus  
 • 03 Calculates the total bill based on the customer's selection  
 • 04 Provides a billing summary for payment
 
