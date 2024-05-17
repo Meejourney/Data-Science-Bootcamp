@@ -1,4 +1,4 @@
-# Pizza-Order-Chatbot [R]
+# Pizzaria-Order-Chatbot [R]
 Test Run File [Click Google Colab](https://colab.research.google.com/drive/1lof-x-iK6j-C5qjU03G2I4jsKjZJTHxt?usp=sharing)
 
 ## Objective:
