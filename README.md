@@ -15,3 +15,6 @@ As a result, I took an opportunity to pursue comprehensive data science skills t
 • Link to [Data Project Portfolio](https://github.com/Meejourney/Data-Science-Bootcamp/tree/bb83489f075f4bc482e66279a57c374faf48cc5d/Project%20Portfolio)
 
 
+## Other extracurricular activity
+• Volunteering activities Linnk to [Thai Rural Areas Development Camps](https://docs.google.com/document/d/1ZAPJvr4uJCgIZpMN41uLWSFDzLtyUmo3/edit?usp=sharing&ouid=112088590747474258533&rtpof=true&sd=true)
+
