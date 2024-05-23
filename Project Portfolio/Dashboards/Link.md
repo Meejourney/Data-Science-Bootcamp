@@ -1,5 +1,5 @@
 # Looker Studio Dashboard
-mock-up store Sales and Profits Performance Report [Click Looker Studio](https://lookerstudio.google.com/u/0/reporting/0537f2cf-2555-465f-a1d9-f651e463aebe/page/fFdvD)
+mock-up store Sales and Profits Performance Report [Click Looker Studio]([https://lookerstudio.google.com/u/0/reporting/0537f2cf-2555-465f-a1d9-f651e463aebe/page/fFdvD](https://lookerstudio.google.com/reporting/0a330853-2489-40b3-a477-1262caab574b))
 1. KPIs Overview
 2. By Location
 3. By Region
