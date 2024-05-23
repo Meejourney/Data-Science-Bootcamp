@@ -13,9 +13,7 @@ As a result, I took an opportunity to pursue comprehensive data science skills t
 
 ## Portfolio 
 • Data Project: Link to [Data Project Portfolio](https://github.com/Meejourney/Data-Science-Bootcamp/tree/bb83489f075f4bc482e66279a57c374faf48cc5d/Project%20Portfolio)  
-• Creative works: 
-   1. Company Profile [Click here](https://github.com/Meejourney/Data-Science-Bootcamp/blob/34d8099f6c00e7ee8b9aba0d3721de71e6313d14/Asian%20Food%20Network%20-%20Company%20Profile_created%20by%20Nuttanich%20Heim.pdf)
-   2. Internal Lidl Logo
+• Creative works: 1. Company Profile [Click here](https://github.com/Meejourney/Data-Science-Bootcamp/blob/34d8099f6c00e7ee8b9aba0d3721de71e6313d14/Asian%20Food%20Network%20-%20Company%20Profile_created%20by%20Nuttanich%20Heim.pdf) 2. Internal Lidl Logo
 
 
 ## Other extracurricular activity
