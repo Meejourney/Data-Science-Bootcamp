@@ -20,5 +20,5 @@ As a result, I took an opportunity to pursue comprehensive data science skills t
 
 
 ## Other extracurricular activity
-• Volunteering activities: More details here [Thai Rural Areas Development Camps](https://docs.google.com/document/d/1ZAPJvr4uJCgIZpMN41uLWSFDzLtyUmo3/edit?usp=sharing&ouid=112088590747474258533&rtpof=true&sd=true)
+• Volunteering activities: More details in [Thai Rural Areas Development Camps](https://docs.google.com/document/d/1ZAPJvr4uJCgIZpMN41uLWSFDzLtyUmo3/edit?usp=sharing&ouid=112088590747474258533&rtpof=true&sd=true)
 
