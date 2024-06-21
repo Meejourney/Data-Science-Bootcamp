@@ -5,8 +5,8 @@ My experience in market research has exposed me to numerous situations that high
 As a result, I took an opportunity to pursue comprehensive data science skills through data science bootcamps. This, coupled with actively building a portfolio of data projects, has equipped me with the practical knowledge and expertise to deliver data-driven insights.  I am eager to leverage these skills and my strong analytical abilities in a new and exciting data-related opportunity.
 
 ## Skill Summary
-• Market Research/ Marketing
-• Customer Insights Management
+• Market Research/ Marketing  
+• Customer Insights Management  
 • Project Management  
 • Data Science Fundamentals (Spreadsheets, SQL, Python, R, Statistics, Intro to Machine Learning)  
 • Data Analysis and Data Visualization (Dashboard with Looker Studio and Tableau Public)
